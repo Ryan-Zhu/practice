@@ -7,3 +7,4 @@ Chong
 
 1-28-14
 modify
+removed learned.text
